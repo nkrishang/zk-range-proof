@@ -6,6 +6,8 @@ A Python implementation of zero-knowledge range proofs, allowing a prover to con
 - `prover.py` and `verifier.py`: Prover and Verifier class implementations
 - `utils.py`: Helper functions for elliptic curve operations, vector arithmetic and such.
 
+This repo is based on learnings from the free-to-read [Rareskills ZK Book (Bulletproofs)](https://www.rareskills.io/zk-book).
+
 ## Prerequisites
 
 - Python 3.8 or higher
