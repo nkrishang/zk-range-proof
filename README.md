@@ -16,7 +16,7 @@ A Python implementation of zero-knowledge range proofs, allowing a prover to con
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nkrishang/zk-range-proof.git
 cd zk-range-proof
 ```
 
